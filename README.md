@@ -24,3 +24,13 @@ Questa è la sua chiave C
 Se vuoi accedere direttamente e velocemente ai due fattori primi che nasconde il numero nel file, devi togliere prima il valore di C e poi applicare il metodo GC57 - MCD(S,S mod C)=p
 
 Senza l’informazione di C il numero nel file è solo un numero qualsiasi che non rilascia nessuna indicazione utile
+
+Il Programma GC57-qso è pronto per essere usato ma naturalmente, essendo questo solo una demo, per quanto funzionante e utilizzabile, avrebbe bisogno di un po’ di conoscenza nel linguaggio Python.
+
+Esecuzione in windows: Prima di lanciare questo programma GC57_qso.py 
+
+1) creare una pennetta USB con il nome QSO
+
+3) Eseguire il programma Data_base_QSO.py che crea c:\db_qso e vi chiede di inserire la pennetta USB con il nome QSO e compilare tutti i campi richiesti. Nota: Non esagerare con il numero dei semiprimi da creare perché in caso di semiprimi molto grandi potrebbe impegnare il computer per molto tempo
+
+Una volta terminato potete lanciare il programma GC57_qso.py che vi chiederà di inserire le cartella dove reperire i dati. Indicategli la cartella c:\db_qso e il nome della pennetta USB. Le altre cartelle le potete selezionare dove volete.
