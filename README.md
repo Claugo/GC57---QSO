@@ -9,7 +9,9 @@ S=pq+C
 
 Senza C, nessuno può nemmeno riconoscerli come semiprimi, figuriamoci fattorizzarli.
 Non esiste più un “primo semiprimo da violare” per compromettere il resto.
+
     • GC57-QuantumShield → senza chiave so dov’è la casa, non posso aprirla… ma posso tentare di entrare da una finestra.
+    
     • GC57-QSO → senza chiave non vedo neanche la casa.
 
 Questo è un esempio di un numero inserito nel file S4643b
